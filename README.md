@@ -17,4 +17,4 @@ The performance of both models will be compared to derive to the best model. Fur
 # Local Setup
 Jupyter notebook is required to run the code.
 
-If the Jupyter notebook is in the local computer, copy this folder to your jupyter notebook path. Then, open the file in your local jupyter notebook. Run the code in the jupyter notebook.
+If the Jupyter notebook is in the local computer, copy this folder to your jupyter notebook path. Then, open the `diabetes_classification.ipynb` file in your local jupyter notebook. Run the code in the jupyter notebook.
